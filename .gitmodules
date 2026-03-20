@@ -7,3 +7,6 @@
 [submodule "ds004496-mriqc"]
 	path = derivatives/MRIQC-24.0.2
 	url = https://github.com/OpenNeuroDerivatives/ds004496-mriqc.git
+[submodule "ds005481"]
+	path = derivatives/fMRIPrep-23.2.1
+	url = https://github.com/OpenNeuroDatasets/ds005481.git
